@@ -1,1 +1,1 @@
-# Machine-Learning-II-Lab-BCI702-
+# Machine-Learning-II-Lab-BCI702
