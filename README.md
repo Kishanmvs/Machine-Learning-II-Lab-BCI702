@@ -5,3 +5,5 @@
 3. Find-S algorithm
 4. Candidate-Elimination algorithm
 5. FOIL algorithm (First-Order Inductive Learner)
+6. Bagging and Boosting for Classification
+7. K-Means Clustering on an Unsupervised Dataset
